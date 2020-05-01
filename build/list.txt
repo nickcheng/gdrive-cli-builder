@@ -1,1 +1,2 @@
-osx/x64
+darwin/386
+darwin/amd64
